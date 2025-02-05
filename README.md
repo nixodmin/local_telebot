@@ -11,6 +11,12 @@
 5. Установите git https://git-scm.com/downloads/win
 6. Скачайте с этого гита файл tbot_local.py и сохраните его в директории где лежит нейросетевая модель
 
+Для взаимодействия python с Тelegram необходимо установить python-telegram-bot
+
+```
+pip install python-telegram-bot
+```
+
 Для взаимодействия python с LLaMA необходимо установить llama_cpp
 
 ```
