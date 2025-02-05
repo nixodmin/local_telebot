@@ -17,7 +17,7 @@
 pip install python-telegram-bot
 ```
 
-Для взаимодействия python с LLaMA необходимо установить llama_cpp (без установленных на ПК Microsoft C++ Build Tools и git установить не получится)
+Для взаимодействия python с LLaMA необходимо установить llama_cpp (без заранее установленных на ПК Microsoft C++ Build Tools и git, установить llama_cpp не получится)
 
 ```
 pip install llama-cpp-python
